@@ -1,2 +1,7 @@
 # Hello-world
-new
+
+ Just trying to learn github 
+ 
+ #lol
+ 
+ If () the that 
